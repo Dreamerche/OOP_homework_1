@@ -1,6 +1,6 @@
 #include <iostream>
 int main(){
     //hm
-    //hmm
+    //kakto i da e, iavno git bavno she kachva vsichko, az si zapochvam s proektcheto
     return 0;
 }
